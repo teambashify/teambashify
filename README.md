@@ -1,3 +1,6 @@
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20🤠&text2=💖%20Open%20Source&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 <h1 align="center">Hi 👋, I'm Ranjit Das</h1>
 
 <h1 align="center">Hi 👋, I'm A passionate Lover</h1>
@@ -18,3 +21,10 @@
 - Func Fact **fdfdf**
 
 - 📫 How to reach me **technicalranjit@gmail.com**
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=technicalranjitofficial&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+coder;Debuger&color=F724A9&font=Alegreya&size=50&duration=2000)](https://git.io/typing-svg)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=technicalranjitofficial)](https://github.com/LordDashMe/github-contribution-stats/)
