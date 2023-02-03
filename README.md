@@ -7,6 +7,7 @@
 
 <p align="left"> <img width="900" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=technicalranjitofficial" alt="technicalranjitofficial" /></a> </p>
 
 - 🔭 Working on[ReactJs]()
 
