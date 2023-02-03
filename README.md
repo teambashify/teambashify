@@ -27,9 +27,9 @@
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=technicalranjitofficial&show_icons=true&theme=radical" alt="" />
 
 
+<img align="right" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalranjitofficial&theme=tokyonight" alt="" /> 
 
 <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=technicalranjitofficial&theme=dark" alt="" />
 
 
 
-<img align="right" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalranjitofficial&theme=tokyonight" alt="" /> 
