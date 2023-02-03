@@ -1,30 +1,35 @@
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Dynamic%20SVG%20🤠&text2=💖%20Open%20Source&width=900&height=400)](https://github.com/Akshay090/svg-banners)
-
-<h1 align="center">Hi 👋, I'm Ranjit Das</h1>
-
-<h1 align="center">Hi 👋, I'm A passionate Lover</h1>
-
-- 🔭 Working on[Reactjs](https://prettier.io/)
-- 🔭 completed[Nextks](Working on)
+< [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ranjit%20Das%20🤠&text2=💖%20Enjoy%20Your%20Day!!!&width=900&height=400)](https://github.com/Akshay090/svg-banners)
 
 
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="android" width="40" height="40"/> </a> <a href=https://clojure.org/ target="_blank" rel="noreferrer"> <img src=https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cs/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg alt="android" width="40" height="40"/> </a> <a href=https://golang.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.java.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.apple.com/swift/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="android" width="40" height="40"/> </a> <a href=https://clojure.org/ target="_blank" rel="noreferrer"> <img src=https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cs/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg alt="android" width="40" height="40"/> </a> <a href=https://golang.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.java.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html target="_blank" rel="noreferrer"> <img src=https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.apple.com/swift/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg alt="android" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href=https://github.com/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg alt="technicalranjit" height="30" width="40" /></a> <a href=https://dev.to/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="technicalranjit" height="30" width="40" /></a> <a href=https://linkedin.com/in/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="technicalranjit" height="30" width="40" /></a> <a href=https://codepen.io/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="technicalranjit" height="30" width="40" /></a> <a href=https://stackoverflow.com/users/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="technicalranjit" height="30" width="40" /></a> <a href=https://kaggle.com/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg alt="technicalranjit" height="30" width="40" /></a> </p>
+<img height="auto" src="https://komarev.com/ghpvc/?username=technicalranjitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="technicalranjit" />
 
 
-- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Reactks**
+<p align="left"> <img width="900" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
 
-- Func Fact **fdfdf**
+
+- 🔭 Working on[ReactJs]()
+
+- 🌱 I’m currently learning **C and C++**
+
+- 💬 Ask me about **ReactJs**
+
+- Func Fact **Ant can fly!!**
 
 - 📫 How to reach me **technicalranjit@gmail.com**
 
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href=https://github.com/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg alt="technicalranjit" height="30" width="40" /></a> </p>
+
+<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cs/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg alt="android" width="40" height="40"/> </a> <a href=https://golang.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.java.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.cprogramming.com/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cpp/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cs/ target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg alt="android" width="40" height="40"/> </a> <a href=https://golang.org target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg alt="android" width="40" height="40"/> </a> <a href=https://www.java.com target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg alt="android" width="40" height="40"/> </a> <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript target="_blank" rel="noreferrer"> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt="android" width="40" height="40"/> </a> </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=technicalranjitofficial&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Jokes Card](https://readme-jokes.vercel.app/api)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+coder;Debuger&color=F724A9&font=Alegreya&size=50&duration=2000)](https://git.io/typing-svg)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=technicalranjitofficial)](https://github.com/LordDashMe/github-contribution-stats/)
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=technicalranjitofficial&show_icons=true&theme=radical" alt="" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=technicalranjitofficial&theme=dark" alt="" />
+
+
+
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalranjitofficial&theme=tokyonight" alt="" /> 
