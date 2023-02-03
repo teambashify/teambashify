@@ -32,4 +32,4 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalranjitofficial&theme=tokyonight" alt="" /> 
+<img align="right" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalranjitofficial&theme=tokyonight" alt="" /> 
