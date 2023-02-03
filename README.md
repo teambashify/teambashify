@@ -1,9 +1,6 @@
-< [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ranjit%20Das%20🤠&text2=💖%20Enjoy%20Your%20Day!!!&width=900&height=400)](https://github.com/Akshay090/svg-banners)
-
+ [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ranjit%20Das%20🤠&text2=💖%20Enjoy%20Your%20Day!!!&width=900&height=400)](https://github.com/Akshay090/svg-banners)
 
 <img height="auto" src="https://komarev.com/ghpvc/?username=technicalranjitofficial&label=Profile%20views&color=0e75b6&style=flat" alt="technicalranjit" />
-
-
 
 <p align="left"> <img width="900" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
 
