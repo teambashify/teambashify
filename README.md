@@ -31,11 +31,11 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=technicalranjitofficial&show_icons=true&theme=highcontrast&locale=en&hide_border=false" alt="" />
+<img align="left" height="auto" width={200} src="https://github-readme-stats.vercel.app/api?username=technicalranjitofficial&show_icons=true&theme=highcontrast&locale=en&hide_border=false" alt="" />
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=technicalranjitofficial&theme=python-dark&mode=weekly&hide_border=false&locale=en" alt="" />
+<img align="left" height="auto" width={200} src="https://github-readme-streak-stats.herokuapp.com/?user=technicalranjitofficial&theme=python-dark&mode=weekly&hide_border=false&locale=en" alt="" />
 
 
 
