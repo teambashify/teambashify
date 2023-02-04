@@ -32,13 +32,13 @@
 
 
 <p align="left" >
-<img height="auto" width={200} src="https://github-readme-stats.vercel.app/api?username=technicalranjitofficial&show_icons=true&theme=highcontrast&locale=en&hide_border=false" alt="" />
+<img height="auto" width={100} src="https://github-readme-stats.vercel.app/api?username=technicalranjitofficial&show_icons=true&theme=highcontrast&locale=en&hide_border=false" alt="" />
 
 </p>
 
 
 <p align="right">
-  <img  height="auto" width={200} src="https://github-readme-streak-stats.herokuapp.com/?user=technicalranjitofficial&theme=python-dark&mode=weekly&hide_border=false&locale=en" alt="" />
+  <img  height="auto" width={100} src="https://github-readme-streak-stats.herokuapp.com/?user=technicalranjitofficial&theme=python-dark&mode=weekly&hide_border=false&locale=en" alt="" />
   </p>
 
 
