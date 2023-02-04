@@ -37,7 +37,7 @@
 </p>
 
 
-<p align="right">
+<p align="left">
   <img  height="auto" width={100} src="https://github-readme-streak-stats.herokuapp.com/?user=technicalranjitofficial&theme=python-dark&mode=weekly&hide_border=false&locale=en" alt="" />
   </p>
 
