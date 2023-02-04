@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img width="900" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
+<p align="left"> <img width="900" height="100" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
 
 
 
